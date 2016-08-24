@@ -1,0 +1,12 @@
+include<stdio.h>
+
+int main(){
+  printf("\nHola Mundo\n");
+  printf("\nEsta es una nueva linea de código\n");
+  return 0;
+}
+#include<studio.h>
+int main(){
+     printf("Este es mi codigo");
+     printf("Programares facil");
+     return 0;
